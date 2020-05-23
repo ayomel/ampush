@@ -1,5 +1,6 @@
 export const QUIZ = [
 	{
+		id: 1,
 		question: 'In which year did you escape?',
 		options: [
 			{ answer: '1997', city: 'NY' },
@@ -7,6 +8,7 @@ export const QUIZ = [
 		],
 	},
 	{
+		id: 2,
 		question: 'What caused the root of all the chaos?',
 		options: [
 			{ answer: 'An earthquake', city: 'LA' },
@@ -14,6 +16,7 @@ export const QUIZ = [
 		],
 	},
 	{
+		id: 3,
 		question: 'The president tries to stop an invasion from where?',
 		options: [
 			{ answer: 'Cuba', city: 'LA' },
@@ -21,6 +24,7 @@ export const QUIZ = [
 		],
 	},
 	{
+		id: 4,
 		question: 'Where was an island converted into a prison?',
 		options: [
 			{ answer: 'LA', city: 'LA' },
@@ -28,6 +32,7 @@ export const QUIZ = [
 		],
 	},
 	{
+		id: 5,
 		question:
 			'Warning.. SPOILER ALERT: At the end of the movie, the main character Snake, does what?',
 		options: [

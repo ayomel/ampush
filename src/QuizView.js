@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function QuizView({ question, options, onClick }) {
+export default function QuizView({ question, options, onClick, id }) {
 	return (
 		<div className='quiz-view'>
-			<h1 className='h1'>{question}</h1>
+			<h1 className='h1'>
+				Question {id}: {question}
+			</h1>
 			<div className='button-container'>
 				{options.map((data, i) => {
 					return (
