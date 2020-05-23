@@ -249,7 +249,7 @@ button:hover span::after {
 		width: 100%;
 		justify-content: center;
 		margin-bottom: 0.5rem;
-		margin-top: 0.5rem;
+		margin-top: 1.5rem;
 		padding: 1.2rem 0.8rem;
 	}
 
@@ -277,6 +277,7 @@ button:hover span::after {
 		margin: auto 2.5rem;
 		line-height: 1.5;
 		width: auto;
+		position: initial;
 	}
 
 	.quiz-view {
