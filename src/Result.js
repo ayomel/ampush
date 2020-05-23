@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Result({ NY, LA }) {
-	if (NY > LA) {
+	if (NY < LA) {
 		return (
 			<>
 				<h3 className='result-header credit_section'>

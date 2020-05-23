@@ -34,7 +34,7 @@ export const QUIZ = [
 			{ answer: 'Puffs a cigarette while going into the darkness', city: 'NY' },
 			{
 				answer: 'Picks a cigarette box labelled “American Spirit”',
-				city: 'NY',
+				city: 'LA',
 			},
 		],
 	},
