@@ -8,6 +8,7 @@ export default function Result({ NY, LA }) {
 					Congrats, you are a survivor! You just escaped from LA!
 				</h3>
 				<img
+					className='image'
 					src='https://media.giphy.com/media/M9HhHPtrAzOvK/giphy.gif'
 					alt='LA'
 				/>
@@ -20,6 +21,7 @@ export default function Result({ NY, LA }) {
 				Congrats, you are a survivor! You just escaped from New York!
 			</h3>
 			<img
+				className='image'
 				src='https://media.giphy.com/media/FOV9923exXGM78DoSZ/giphy.gif'
 				alt='New York'
 			/>

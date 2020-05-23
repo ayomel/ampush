@@ -283,4 +283,8 @@ button:hover span::after {
 		margin-top: 1rem;
 		margin-bottom: 3.5rem;
 	}
+
+	.image {
+		max-width: 300px;
+	}
 }
